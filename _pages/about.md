@@ -25,9 +25,7 @@ My research interest includes trustworthy graph data mining and robustness for r
 - *2023.05*: &nbsp;🎉🎉 Our paper <a herf='https://arxiv.org/pdf/2210.10592.pdf'>DyTed: Disentangled Representation Learning for Discrete-time Dynamic Graph</a> is accepted in SIGKDD 2023.
 
 # 📝 Publications 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGKDD 2023</div><img src='images/DyTed2023.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGKDD 2023</div><img src='images/DyTed2023.jpg' alt="sym" width="100%"></div></div><div class='paper-box-text' markdown="1">
 
 [DyTed: Disentangled Representation Learning for Discrete-time Dynamic Graph](https://arxiv.org/pdf/2210.10592.pdf)
 
@@ -38,8 +36,8 @@ My research interest includes trustworthy graph data mining and robustness for r
 
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
 </div> -->
+</div>
 
 
 # 🎖 Honors and Awards

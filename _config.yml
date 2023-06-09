@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Kaike Zhang (张凯科)"
-description              : "PhD Student"
+description              : "Data Intelligence System Research Center, Institute of Computing Technology, Chinese Academy of Sciences"
 repository               : "Kaike-Zhang/Kaike-Zhang.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Kaike Zhang (张凯科)"
   avatar           : "images/kaikezhang-512x512.png"
-  bio              : "Data Intelligence System Research Center, Institute of Computing Technology, Chinese Academy of Sciences"
+  bio              : "PhD Student"
   location         : "Beijing, China"
   employer         : 
   pubmed           : 
