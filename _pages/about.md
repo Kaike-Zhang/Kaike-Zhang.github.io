@@ -21,20 +21,17 @@ My research interest includes trustworthy graph data mining and robustness for r
 # 📝 Publications
 
 <div class='paper-box'><div class='paper-box-image'>
-  <div>
-    <div class="badge">SIGKDD 2023</div><img src='images/DyTed2023.jpg' alt="sym" width="100%"></div>
-  </div>
-  <div class='paper-box-text' markdown="1">
+<div>
+<div class="badge">SIGKDD 2023</div><img src='images/DyTed2023.jpg' alt="sym" width="100%"></div>
+</div>
+<div class='paper-box-text' markdown="1">
 
-    [DyTed: Disentangled Representation Learning for Discrete-time Dynamic Graph](https://arxiv.org/pdf/2210.10592.pdf)
+[DyTed: Disentangled Representation Learning for Discrete-time Dynamic Graph](https://arxiv.org/pdf/2210.10592.pdf)
+**Kaike Zhang**, Qi Cao, Gaolin Fang, Bingbing Xu, Hongjian Zou, Huawei Sheng, Xueqi Cheng
+[**Code**](https://github.com/Kaike-Zhang/DyTed)
+- Disentangle the time-invariant and time-varying information of dynamic graph data to provide more flexible and robust representations to face various downstream tasks.
 
-    **Kaike Zhang**, Qi Cao, Gaolin Fang, Bingbing Xu, Hongjian Zou, Huawei Sheng, Xueqi Cheng
-
-    [**Code**](https://github.com/Kaike-Zhang/DyTed)
-
-    - Disentangle the time-invariant and time-varying information of dynamic graph data to provide more flexible and robust representations to face various downstream tasks.
-
-  </div>
+</div>
 </div>
 
 # 🎖 Honors and Awards
