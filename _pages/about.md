@@ -45,8 +45,8 @@ My research interest includes trustworthy graph data mining and robustness for r
 # 📖 Educations
 
 - _2021.09 - Present_, **Institute of Computing Technology, Chinese Academy of Seiences**.
-  - Consecutive MS & phD in Computer Application Technology & Cyberspace Security
-  - Tutor: Professor Xueqi Cheng & Xinran Liu
+  - Consecutive MS and phD in Computer Application Technology and Cyberspace Security
+  - Tutor: Professor Xueqi Cheng and Xinran Liu
 - _2017.09 - 2021.06_, **Chongqing University**.
   - BS in Software Engineering
   - Tutor: Professor Haibo Hu
