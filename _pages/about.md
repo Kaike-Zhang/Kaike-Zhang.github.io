@@ -49,7 +49,7 @@ My research interest includes trustworthy graph data mining and robustness for r
 </div>
 
 
-# 📖 Preprint
+# 📖 Preprints
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/RobustRS.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
