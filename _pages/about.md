@@ -16,6 +16,8 @@ My research interest includes trustworthy graph data mining and robustness for r
 
 # 🔥 News
 
+- _2024.04_: &nbsp;🎉🎉 Our paper <a herf='https://arxiv.org/pdf/2401.17723.pdf'>LoRec: Combating Poisons with Large Language Model for Robust Sequential Recommendation</a> is accepted in SIGIR 2024.
+
 - _2023.05_: &nbsp;🎉🎉 Our paper <a herf='https://arxiv.org/pdf/2210.10592.pdf'>DyTed: Disentangled Representation Learning for Discrete-time Dynamic Graph</a> is accepted in SIGKDD 2023.
 
 # 📝 Publications
@@ -30,6 +32,34 @@ My research interest includes trustworthy graph data mining and robustness for r
 - We conduct extensive experiments on real dynamic graphs of daily capital transactions on Tencent, achieving state-of-the-art performance on various downstream tasks.
 
 ([**Code**](https://github.com/Kaike-Zhang/DyTed))
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGIR 2024</div><img src='images/LoRec2024.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[LoRec: Combating Poisons with Large Language Model for Robust Sequential Recommendation](https://arxiv.org/pdf/2401.17723.pdf)
+**Kaike Zhang**, Qi Cao, Yunfan Wu, Fei Sun, Huawei Sheng, Xueqi Cheng
+- We pioneer the exploration of LLMs' knowledge of fraudsters within recommender systems, revealing how LLMs' knowledge can aid defense methods in generalizing across various attacks.
+- We lead the initiative of incorporating LLMs into the robustness of sequential recommender systems, introducing LoRec as an innovative and general framework that employs LLM-enhanced Calibration for robust sequential recommendations.
+- Our extensive experiments confirm the efficacy of the LoRec framework in withstanding diverse types of attacks and its adaptability across multiple backbone recommendation architectures.
+
+([**Code**](https://github.com/Kaike-Zhang/LoRec))
+</div>
+</div>
+
+
+# 📖 Preprint
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/RobustRS.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Robust Recommender System: A Survey and Future Directions](https://arxiv.org/pdf/2309.02057.pdf)
+**Kaike Zhang**, Qi Cao, Fei Sun, Yunfan Wu, Shuchang Tao, Huawei Sheng, Xueqi Cheng
+- A comprehensive and systematic taxonomy for robustness-enhance methods in recommender systems.
+- An all-encompassing overview of the representative methodologies, as well as evaluation approaches and datasets currently employed in the domain.
+- Detailed discussions encompass various facets: the main consideration of recommender systems' robustness in diverse scenarios, its correlation with other trustworthy properties of recommender systems, as well as open issues coupled with recommender systems' robustness, and trends for future development.
+
 </div>
 </div>
 
