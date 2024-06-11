@@ -22,19 +22,6 @@ My research interest includes trustworthy graph data mining and robustness for r
 
 # 📝 Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGKDD 2023</div><img src='images/DyTed2023.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[DyTed: Disentangled Representation Learning for Discrete-time Dynamic Graph](https://arxiv.org/pdf/2210.10592.pdf)
-**Kaike Zhang**, Qi Cao, Gaolin Fang, Bingbing Xu, Hongjian Zou, Huawei Sheng, Xueqi Cheng
-- To the best of our knowledge, we are the first to study and introduce the disentangled representation learning framework for discrete-time dynamic graphs.
-- We propose two representation generators with carefully designed pretext tasks and a disentanglement-aware discriminator under an adversarial learning framework.
-- We conduct extensive experiments on real dynamic graphs of daily capital transactions on Tencent, achieving state-of-the-art performance on various downstream tasks.
-
-([**Code**](https://github.com/Kaike-Zhang/DyTed))
-</div>
-</div>
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGIR 2024</div><img src='images/LoRec2024.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -48,6 +35,19 @@ My research interest includes trustworthy graph data mining and robustness for r
 </div>
 </div>
 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGKDD 2023</div><img src='images/DyTed2023.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[DyTed: Disentangled Representation Learning for Discrete-time Dynamic Graph](https://arxiv.org/pdf/2210.10592.pdf)
+**Kaike Zhang**, Qi Cao, Gaolin Fang, Bingbing Xu, Hongjian Zou, Huawei Sheng, Xueqi Cheng
+- To the best of our knowledge, we are the first to study and introduce the disentangled representation learning framework for discrete-time dynamic graphs.
+- We propose two representation generators with carefully designed pretext tasks and a disentanglement-aware discriminator under an adversarial learning framework.
+- We conduct extensive experiments on real dynamic graphs of daily capital transactions on Tencent, achieving state-of-the-art performance on various downstream tasks.
+
+([**Code**](https://github.com/Kaike-Zhang/DyTed))
+</div>
+</div>
 
 # 📖 Preprints
 
