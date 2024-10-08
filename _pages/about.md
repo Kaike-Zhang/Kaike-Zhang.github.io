@@ -16,11 +16,79 @@ My research interest includes trustworthy graph data mining and robustness for r
 
 # 🔥 News
 
+- _2024.09_: &nbsp;🎉🎉 Our paper <a herf='#'>Understanding and Improving Adversarial Collaborative Filtering for Robust Recommendation</a> is accepted in NeurIPS 2024.
+
+- _2024.08_: &nbsp;🎉🎉 Our paper <a herf='#'>PKAD: Pretrained Knowledge is All You Need to Detect and Mitigate Textual Backdoor Attacks</a> is accepted in EMNLP 2024.
+
+- _2024.07_: &nbsp;🎉🎉 Our paper <a herf='https://arxiv.org/pdf/2409.17476'>Improving the Shortest Plank: Vulnerability-Aware Adversarial Training for Robust Recommender System</a> is accepted in RecSys 2024.
+
+- _2024.07_: &nbsp;🎉🎉 Our paper <a herf='https://arxiv.org/pdf/2408.10666'>Accelerating the Surrogate Retraining for Poisoning Attacks against Recommender Systems</a> is accepted in RecSys 2024.
+
 - _2024.04_: &nbsp;🎉🎉 Our paper <a herf='https://arxiv.org/pdf/2401.17723.pdf'>LoRec: Combating Poisons with Large Language Model for Robust Sequential Recommendation</a> is accepted in SIGIR 2024.
 
 - _2023.05_: &nbsp;🎉🎉 Our paper <a herf='https://arxiv.org/pdf/2210.10592.pdf'>DyTed: Disentangled Representation Learning for Discrete-time Dynamic Graph</a> is accepted in SIGKDD 2023.
 
 # 📝 Publications
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/PamaCF2024.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Understanding and Improving Adversarial Collaborative Filtering for Robust Recommendation](#)
+**Kaike Zhang**, Qi Cao, Yunfan Wu, Fei Sun, Huawei Shen, Xueqi Cheng
+
+- We provide theoretical evidence that ACF can achieve better performance and robustness compared to traditional CF in both clean and poisoned data contexts.
+- We further identify upper and lower bounds of reduction in recommendation error for ACF during optimization and demonstrate that applying personalized perturbation magnitudes for each user can further improve ACF.
+- Based on the above theoretical understandings, we propose Personalized Magnitude Adversarial Collaborative Filtering (PamaCF), with extensive experiments confirming that PamaCF further improves both performance and robustness compared to state-of-the-art defense methods.
+
+([**Code**](https://github.com/Kaike-Zhang/PamaCF))
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2024</div><img src='images/PKAD2024.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[PKAD: Pretrained Knowledge is All You Need to Detect and Mitigate Textual Backdoor Attacks](#)
+Yu Chen, Qi Cao, **Kaike Zhang**, Xuchao Liu, Huawei Shen
+
+- We delve into utilizing PLM insights to identify the mismatched relationship and shared characteristics of poisoned samples, forming a two-stage detection strategy.
+- Through extensive experiments, we demonstrate our approach’s effectiveness across various datasets and attack strategies, achieving better performance more swiftly.
+
+([**Code**](https://github.com/Ascian/PKAD))
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">RecSys 2024</div><img src='images/VAT2024.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Improving the Shortest Plank: Vulnerability-Aware Adversarial Training for Robust Recommender System](https://arxiv.org/pdf/2409.17476)
+**Kaike Zhang**, Qi Cao, Yunfan Wu, Fei Sun, Huawei Shen, Xueqi Cheng
+
+- Through extensive empirical analysis, we interestingly find that “users with a higher degree of fit within the recommender system are at a higher risk of being affected by attacks”.
+- Building on these insights, we introduce a novel vulnerability-aware adversarial training method, VAT, applying user-adaptive magnitudes of perturbations based on users’ vulnerabilities.
+- Our comprehensive experiments confirm the effectiveness of VAT in resisting various attacks, maintaining recommendation quality, and demonstrating its adaptability across various recommendation models.
+
+([**Code**](https://github.com/Kaike-Zhang/VAT))
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">RecSys 2024</div><img src='images/GP2024.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Accelerating the Surrogate Retraining for Poisoning Attacks against Recommender Systems](https://arxiv.org/pdf/2408.10666)
+Yunfan Wu, Qi Cao, Shuchang Tao, **Kaike Zhang**, Fei Sun, Huawei Shen
+- We introduce a novel method Gradient Passing (GP) based on
+both intuitive and theoretical analyses, accelerating the retraining
+process of surrogate recommenders.
+- We present the use of GP to enhance data poisoning attacks. It can
+be integrated into state-of-the-art attack methods and combined
+with other techniques.
+- Extensive experiments on three real-world datasets and six victim
+recommenders validate the efficiency and effectiveness of GP.
+
+([**Code**](https://github.com/WuYunfan/GradientPassingAttack))
+</div>
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGIR 2024</div><img src='images/LoRec2024.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -65,6 +133,7 @@ My research interest includes trustworthy graph data mining and robustness for r
 
 # 🎖 Honors and Awards
 
+- _2024_ Institute of Computing Technology 3A Student _Leader_.
 - _2023_ Institute of Computing Technology 3A Student.
 - _2022_ Institute of Computing Technology Director’s Named Scholarship.
 - _2021_ Excellent Undergraduate Graduation Design of Chongqing University.
