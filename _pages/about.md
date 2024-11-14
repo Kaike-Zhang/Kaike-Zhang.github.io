@@ -12,7 +12,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 Hello, I’m Kaike Zhang (张凯科), an phD student at the <a herf='http://www.ict.ac.cn'>Institute of Computing Technology, Chinese Academy of Sciences</a>.
-My research interest includes trustworthy graph data mining and robustness for recommender system.
+My research interest includes trustworthy graph data mining and trustworthy recommender system.
 
 # 🔥 News
 
@@ -33,7 +33,7 @@ My research interest includes trustworthy graph data mining and robustness for r
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/PamaCF2024.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Understanding and Improving Adversarial Collaborative Filtering for Robust Recommendation](#)
+[Understanding and Improving Adversarial Collaborative Filtering for Robust Recommendation](https://arxiv.org/pdf/2410.22844)
 **Kaike Zhang**, Qi Cao, Yunfan Wu, Fei Sun, Huawei Shen, Xueqi Cheng
 
 - We provide theoretical evidence that ACF can achieve better performance and robustness compared to traditional CF in both clean and poisoned data contexts.
@@ -47,7 +47,7 @@ My research interest includes trustworthy graph data mining and robustness for r
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2024</div><img src='images/PKAD2024.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[PKAD: Pretrained Knowledge is All You Need to Detect and Mitigate Textual Backdoor Attacks](#)
+[PKAD: Pretrained Knowledge is All You Need to Detect and Mitigate Textual Backdoor Attacks](https://aclanthology.org/2024.findings-emnlp.335.pdf)
 Yu Chen, Qi Cao, **Kaike Zhang**, Xuchao Liu, Huawei Shen
 
 - We delve into utilizing PLM insights to identify the mismatched relationship and shared characteristics of poisoned samples, forming a two-stage detection strategy.
