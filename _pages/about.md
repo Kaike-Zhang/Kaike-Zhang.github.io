@@ -16,9 +16,13 @@ My research interest includes trustworthy graph data mining and trustworthy reco
 
 # 🔥 News
 
-- _2024.09_: &nbsp;🎉🎉 Our paper <a herf='#'>Understanding and Improving Adversarial Collaborative Filtering for Robust Recommendation</a> is accepted in NeurIPS 2024.
+- _2025.01_: &nbsp;🎉🎉 Our paper <a herf='#'>Personalized Denoising Implicit Feedback for Robust Recommender System</a> is accepted in TheWebConf (WWW) 2025.
 
-- _2024.08_: &nbsp;🎉🎉 Our paper <a herf='#'>PKAD: Pretrained Knowledge is All You Need to Detect and Mitigate Textual Backdoor Attacks</a> is accepted in EMNLP 2024.
+- _2024.12_: &nbsp; I received the Huawei PhD Scholarship in 2024.
+
+- _2024.09_: &nbsp;🎉🎉 Our paper <a herf='https://arxiv.org/pdf/2410.22844'>Understanding and Improving Adversarial Collaborative Filtering for Robust Recommendation</a> is accepted in NeurIPS 2024.
+
+- _2024.08_: &nbsp;🎉🎉 Our paper <a herf='https://aclanthology.org/2024.findings-emnlp.335.pdf'>PKAD: Pretrained Knowledge is All You Need to Detect and Mitigate Textual Backdoor Attacks</a> is accepted in EMNLP 2024.
 
 - _2024.07_: &nbsp;🎉🎉 Our paper <a herf='https://arxiv.org/pdf/2409.17476'>Improving the Shortest Plank: Vulnerability-Aware Adversarial Training for Robust Recommender System</a> is accepted in RecSys 2024.
 
@@ -29,6 +33,20 @@ My research interest includes trustworthy graph data mining and trustworthy reco
 - _2023.05_: &nbsp;🎉🎉 Our paper <a herf='https://arxiv.org/pdf/2210.10592.pdf'>DyTed: Disentangled Representation Learning for Discrete-time Dynamic Graph</a> is accepted in SIGKDD 2023.
 
 # 📝 Publications
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TheWebConf 2025</div><img src='images/PLD2025.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Personalized Denoising Implicit Feedback for Robust Recommender System](#)
+**Kaike Zhang**, Qi Cao, Yunfan Wu, Fei Sun, Huawei Shen, Xueqi Cheng
+
+- We identify the limitations of existing loss-based denoising methods, highlighting the significant overlap between normal and noisy  interactions in the overall loss distribution.
+- We find that, for a given user, there is a clear distinction between normal and noisy interactions in the user's personal loss distribution. Leveraging this insight, we propose a resampling strategy for denoising, PLD.
+- We conduct an in-depth theoretical analysis, proving PLD's effectiveness and suggesting ways to further enhance its performance.
+
+([**Code**](https://github.com/Kaike-Zhang/PLD))
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/PamaCF2024.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -133,6 +151,7 @@ recommenders validate the efficiency and effectiveness of GP.
 
 # 🎖 Honors and Awards
 
+- _2024_ Huawei PhD Scholarship.
 - _2024_ Institute of Computing Technology 3A Student _Leader_.
 - _2023_ Institute of Computing Technology 3A Student.
 - _2022_ Institute of Computing Technology Director’s Named Scholarship.
