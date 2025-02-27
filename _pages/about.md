@@ -152,6 +152,7 @@ recommenders validate the efficiency and effectiveness of GP.
 # 🎖 Honors and Awards
 
 - _2024_ Huawei PhD Scholarship.
+- _2024_ NeurIPS Scholar Award.
 - _2024_ Institute of Computing Technology 3A Student _Leader_.
 - _2023_ Institute of Computing Technology 3A Student.
 - _2022_ Institute of Computing Technology Director’s Named Scholarship.
