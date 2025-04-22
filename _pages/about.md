@@ -16,7 +16,11 @@ My research interest includes trustworthy graph data mining and trustworthy reco
 
 # 🔥 News
 
-- _2025.01_: &nbsp;🎉🎉 Our paper <a herf='#'>Personalized Denoising Implicit Feedback for Robust Recommender System</a> is accepted in TheWebConf (WWW) 2025.
+- _2025.04_: &nbsp;We organized <a herf='https://human-centeredrec.github.io/'>The 1st Workshop on Human-Centered Recommender Systems (HCRS)</a>, held on April 29, 2025, at The Web Conference (WWW 2025) in Sydney, Australia.
+
+- _2025.04_: &nbsp;🎉🎉 Our paper <a herf='#'>“I Know You Are Discriminatory!”: Automated Substantiating for Individual Fairness Auditing of AI Systems</a> is accepted in CSCW 2025.
+
+- _2025.01_: &nbsp;🎉🎉 Our paper <a herf='https://arxiv.org/pdf/2502.00348'>Personalized Denoising Implicit Feedback for Robust Recommender System</a> is accepted in TheWebConf (WWW) 2025.
 
 - _2024.12_: &nbsp; I received the Huawei PhD Scholarship in 2024.
 
@@ -37,7 +41,7 @@ My research interest includes trustworthy graph data mining and trustworthy reco
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TheWebConf 2025</div><img src='images/PLD2025.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Personalized Denoising Implicit Feedback for Robust Recommender System](#)
+[Personalized Denoising Implicit Feedback for Robust Recommender System](https://arxiv.org/pdf/2502.00348)
 **Kaike Zhang**, Qi Cao, Yunfan Wu, Fei Sun, Huawei Shen, Xueqi Cheng
 
 - We identify the limitations of existing loss-based denoising methods, highlighting the significant overlap between normal and noisy  interactions in the overall loss distribution.
@@ -47,6 +51,21 @@ My research interest includes trustworthy graph data mining and trustworthy reco
 ([**Code**](https://github.com/Kaike-Zhang/PLD))
 </div>
 </div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TheWebConf 2025</div><img src='images/Substantiating2025.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Personalized Denoising Implicit Feedback for Robust Recommender System](#)
+Yuanhao Liu, Qi Cao, Huawei Shen, **Kaike Zhang**, Yunfan Wu
+
+- We propose substantiating as a framework for individual fairness auditing of AI systems, which is a solution for situations where auditors lack access to model information and data.
+- To the best of our knowledge, we are the first to propose the utilization of automated data generation methods for individual fairness audits, and we designed two categories of methods.
+- We conduct experiments on four public datasets to evaluate our methods. Additionally, the experiment on GPT-4 shows the effectiveness of our substantiating framework for individual fairness auditing.
+
+</div>
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/PamaCF2024.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -171,7 +190,8 @@ recommenders validate the efficiency and effectiveness of GP.
   - Tutor: Professor Haibo Hu
 
 <!-- # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
+- *2025.04*,  -->
+<!-- - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Internships
