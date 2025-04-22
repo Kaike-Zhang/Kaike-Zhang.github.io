@@ -53,7 +53,7 @@ My research interest includes trustworthy graph data mining and trustworthy reco
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TheWebConf 2025</div><img src='images/Substantiating2025.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CSCW 2025</div><img src='images/Substantiating2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Personalized Denoising Implicit Feedback for Robust Recommender System](#)
